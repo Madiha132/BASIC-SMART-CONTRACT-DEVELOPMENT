@@ -57,7 +57,8 @@ This project implements a simple smart contract in Solidity for a token transfer
   
   Task1:
 
-  <img width="332" alt="Screenshot 2025-02-26 075051" src="https://github.com/user-attachments/assets/0cc37baf-53a7-44a3-8d21-99b90d53d0f6" />
+  <img width="332" alt="Screenshot 2025-02-26 075051" src="https://github.com/user-attachments/assets/0a6c78c1-e9fc-4984-8b1e-771b4d03c170" />
+
 
 
 
