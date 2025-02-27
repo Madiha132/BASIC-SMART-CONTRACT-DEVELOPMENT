@@ -56,8 +56,9 @@ This project implements a simple smart contract in Solidity for a token transfer
 -  "OUTPUT":
   
   Task1:
+  
+  ![output1](https://github.com/user-attachments/assets/bf61fb31-979c-49f6-bd42-1d036a2ba06b)
 
-  <img width="332" alt="Screenshot 2025-02-26 075051" src="https://github.com/user-attachments/assets/0a6c78c1-e9fc-4984-8b1e-771b4d03c170" />
 
 
 
